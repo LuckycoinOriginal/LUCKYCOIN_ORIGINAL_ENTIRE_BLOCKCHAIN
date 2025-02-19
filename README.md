@@ -1,0 +1,2 @@
+# Luckycoin
+Luckycoin
